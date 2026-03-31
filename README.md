@@ -30,7 +30,7 @@ Google Drive  (thesis .docx updated automatically)
 **Key results from the 100-respondent survey:**
 - Pearson r = **−0.97** between search ranking position and perceived credibility
 - Cronbach's Alpha = **0.87** (overall 7-item scale)
-- **0%** of respondents cited Google as their primary brand discovery channel → central diagnostic finding
+- **8%** of respondents cited Google as their primary brand discovery channel → central diagnostic finding
 
 ---
 
