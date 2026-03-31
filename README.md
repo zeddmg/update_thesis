@@ -202,7 +202,7 @@ Academic use only. Not for commercial redistribution.
 ## Citation
 
 ```
-Meguelati, A. Z. E. (2026). The Impact Search Engine Optimization (SEO) on Brand Positioning : Using an Automated Analytical Pipeline [Licence dissertation].
+Meguellati, A. Z. E. (2026). The Impact Search Engine Optimization (SEO) on Brand Positioning : Using an Automated Analytical Pipeline [Licence dissertation].
 Batna 1 University – Hadj Lakhdar, Faculty of Economic,
 Commercial and Management Sciences.
 ```
