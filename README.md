@@ -3,7 +3,7 @@
 > **The Impact Search Engine Optimization (SEO) on Brand Positioning : Using an Automated Analytical Pipeline — Case Study: Djezzy Algeria**
 > Licence Dissertation · Batna 1 University – Hadj Lakhdar  
 > Faculty of Economic, Commercial and Management Sciences  
-> **Author:** Meguelati Ali Zine El Abidine
+> **Author:** Meguellati Ali Zine El Abidine
 ---
 
 ## Overview
@@ -193,7 +193,7 @@ SHEET_ID = "your_google_sheets_spreadsheet_id"
 
 ## License
 
-All rights reserved © 2026 — Meguelati Ali Zine El Abidine  
+All rights reserved © 2026 — Meguellati Ali Zine El Abidine  
 Deposited at **ONDA** (National Office of Copyright and Related Rights), Algeria.
 
 Academic use only. Not for commercial redistribution.
