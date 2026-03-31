@@ -1,0 +1,44 @@
+# =============================================================================
+# .gitignore — Djezzy SEO Thesis Project
+# =============================================================================
+
+# ── Credentials (NEVER commit) ────────────────────────────────────────────────
+credentials/
+*.json
+*.p12
+*.pem
+
+# ── Thesis files (private) ────────────────────────────────────────────────────
+*.docx
+thesis_local.docx
+thesis_updated.docx
+
+# ── Data files (raw survey data — keep private) ───────────────────────────────
+data/survey_data_latest.csv
+data/survey_responses.csv
+
+# ── Generated figures ─────────────────────────────────────────────────────────
+figures/
+new_figures/
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+venv/
+env/
+.env/
+.venv/
+
+# ── IDE / OS ──────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
