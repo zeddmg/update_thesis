@@ -9,8 +9,10 @@
 ## Overview
 
 This repository contains the complete automation pipeline developed as part of the dissertation. It connects every stage of the research workflow:
-For Permission requests PLEASE CONTACT ME AT : zineelabidine.meguellati@gmail.com
-
+For Permission requests PLEASE CONTACT 
+ME AT : 
+zineelabidine.meguellati@gmail.com
+DOI: 10.5281/zenodo.19354870
 ```
 Google Forms Survey
        │
