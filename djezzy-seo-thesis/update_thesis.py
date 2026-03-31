@@ -4,12 +4,12 @@
 # =============================================================================
 # update_thesis.py
 # =============================================================================
-# Author       : Meguelati Ali Zine El Abidine
-# Supervisor   : Dr. Zeghdoud Souhil
+# Author       : Meguellati Ali Zine El Abidine
 # Institution  : Batna 1 University – Hadj Lakhdar
 #                Faculty of Economic, Commercial and Management Sciences
 # Academic Year: 2025 – 2026
-# Topic        : The Impact of SEO on Brand Positioning
+# Topic        : The Impact of Search engine optimization on brand positioning
+#                using an automated pipeline
 #                – Case Study: Djezzy Algeria
 # =============================================================================
 # Description:
