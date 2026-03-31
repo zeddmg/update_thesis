@@ -4,7 +4,7 @@
 # =============================================================================
 # update_thesis.py
 # =============================================================================
-# Author       : Meguelati Ali Zine El Abidine
+# Author       : Meguellati Ali Zine El Abidine
 # Institution  : Batna 1 University – Hadj Lakhdar
 #                Faculty of Economic, Commercial and Management Sciences
 # Academic Year: 2025 – 2026
