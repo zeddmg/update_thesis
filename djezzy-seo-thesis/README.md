@@ -3,12 +3,13 @@
 > **The Impact Search Engine Optimization (SEO) on Brand Positioning : Using an Automated Analytical Pipeline — Case Study: Djezzy Algeria**
 > Licence Dissertation · Batna 1 University – Hadj Lakhdar  
 > Faculty of Economic, Commercial and Management Sciences  
-> **Author:** Meguelati Ali Zine El Abidine
+> **Author:** Meguellati Ali Zine El Abidine
 ---
 
 ## Overview
 
 This repository contains the complete automation pipeline developed as part of the dissertation. It connects every stage of the research workflow:
+For Permission requests PLEASE CONTACT ME AT : zineelabidine.meguellati@gmail.com
 
 ```
 Google Forms Survey
@@ -186,7 +187,7 @@ SHEET_ID = "your_google_sheets_spreadsheet_id"
 - **H2** — Users who find Djezzy at higher positions trust the brand more ✓ (r = −0.97)
 - **H3** — SEO practices have a measurable positive effect on brand perception ✓ (α = 0.87)
 
-**Key diagnostic finding:** 0% of respondents cited Google as their primary discovery channel for Djezzy (word of mouth: 38%, social media: 31%) — suggesting Djezzy's organic search presence does not yet translate into brand discovery despite high trust correlation with rank position.
+**Key diagnostic finding:** 8% of respondents cited Google as their primary discovery channel for Djezzy (word of mouth: 38%, social media: 31%) — suggesting Djezzy's organic search presence does not yet translate into brand discovery despite high trust correlation with rank position.
 
 ---
 
@@ -202,7 +203,7 @@ Academic use only. Not for commercial redistribution.
 ## Citation
 
 ```
-Meguelati, A. Z. E. (2026). The Impact Search Engine Optimization (SEO) on Brand Positioning : Using an Automated Analytical Pipeline [Licence dissertation].
+Meguellati, A. Z. E. (2026). The Impact Search Engine Optimization (SEO) on Brand Positioning : Using an Automated Analytical Pipeline [Licence dissertation].
 Batna 1 University – Hadj Lakhdar, Faculty of Economic,
 Commercial and Management Sciences.
 ```
